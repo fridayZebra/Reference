@@ -2,14 +2,37 @@
 
 ### Formatting Markdown
 
-- [GitHub Guides](http://github.com)
+- [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ### Javascript
 
+1. Books
+
+    [Eloquent Javascript 2nd Ed](http://eloquentjavascript.net/index.html)  
+    [You DOn't Know JS Series](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
+
+2. Fundamentals  
+    [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html#arrays)  
+    [jQuery Fundamentals](http://jqfundamentals.com/chapter/events)  
+        - Events and Event Delegation
+
+2. OOP  
+    [JS Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/) [Very Thorough]  
+    [Object Playground](http://www.objectplayground.com)  
+        - good explanation on prototype and inheritance in 30 min video
+
+3. Misc JS  
+    [Build 30 Things in 30 Days](https://javascript30.com) [Do this when time alows]
+
 ### HTML
+[Dive into HTML5](http://diveintohtml5.info)
+
+[MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[Good Class Names W3](https://www.w3.org/QA/Tips/goodclassnames)
 
 ### CSS
 [Flexbox Frogg](http://flexboxfroggy.com)
@@ -27,5 +50,7 @@
 
 [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+
+### Misc Web How/What/Why
 
  
