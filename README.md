@@ -9,7 +9,7 @@
 
 ### Javascript
   
-Array [Practice Drills](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
+[Array Practice Drills](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
 
 
 1. Books
