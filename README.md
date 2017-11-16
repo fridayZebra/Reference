@@ -39,7 +39,7 @@
 [Good Class Names W3](https://www.w3.org/QA/Tips/goodclassnames)
 
 ### CSS
-[Flexbox Frogg](http://flexboxfroggy.com)
+[Flexbox Froggy](http://flexboxfroggy.com)
 
 [Learn CSS Layout](http://learnlayout.com/toc.html)
 
@@ -56,5 +56,35 @@
 
 
 ### Misc Web How/What/Why
+-
+-
+-
+-
+
+### Node/NPM  
+   #### shortcuts  
+   <strong>long form</strong>  
+    - npm install --body-parser
+  <strong>shorthand</strong>  
+    - npm i -S body-parser
+
+   #### Dev Dependancies  
+  <strong>long form</strong>  
+     - npm install --save-dev morgan
+ 
+ shorthand
+ npm i -D morgan
+
+   Misc/Good to Know
+- .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)
+- Heroku only runs dependancies
+
+
+
+
+
+
+
+
 
  
