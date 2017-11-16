@@ -61,21 +61,20 @@
 -
 -
 
-### Node/NPM  
-#### Shortcuts  
+#### 1. Node/NPM  
+##### Shortcuts  
    <strong>long form</strong>  
    -npm install --body-parser  
   <strong>shorthand</strong>  
     - npm i -S body-parser
 
-#### Dev Dependancies  
-  <strong>long form</strong>  
-     - npm install --save-dev morgan
- 
- <strong>shorthand</strong>  
+#### Dev Dependancies (installed just on dev local machine)  
+  **long form**  
+     - npm install --save-dev morgan  
+  **shorthand**
      - npm i -D morgan
 
-   <strong>Misc/Good to Know</strong>  
+   **Misc/Good to Know**
       - .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)  
       - Heroku only runs dependancies, not devdependancies
 
