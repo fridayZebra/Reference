@@ -64,7 +64,7 @@
 ### Node/NPM  
 #### Shortcuts  
    <strong>long form</strong>  
-   -npm install --body-parser
+   -npm install --body-parser  
   <strong>shorthand</strong>  
     - npm i -S body-parser
 
@@ -77,7 +77,7 @@
 
    <strong>Misc/Good to Know</strong>  
       - .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)  
-      - Heroku only runs dependancies
+      - Heroku only runs dependancies, not devdependancies
 
 
 
