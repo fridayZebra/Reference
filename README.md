@@ -62,13 +62,13 @@
 -
 
 ### Node/NPM  
-   #### shortcuts  
+#### Shortcuts  
    <strong>long form</strong>  
    -npm install --body-parser
   <strong>shorthand</strong>  
     - npm i -S body-parser
 
-   #### Dev Dependancies  
+#### Dev Dependancies  
   <strong>long form</strong>  
      - npm install --save-dev morgan
  
