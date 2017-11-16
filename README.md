@@ -63,7 +63,7 @@
 
 #### 1. Node/NPM  
    ##### a. Shortcuts  
-   **long form**  
+   *long form*  
    + npm install --body-parser  
   **shorthand**  
     + npm i -S body-parser
