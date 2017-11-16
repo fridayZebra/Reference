@@ -74,7 +74,7 @@
   **shorthand**
      - npm i -D morgan
 
-   #### 2. Misc/Good to Know
+   #### 2. Misc/Good to Know  
       - .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)  
       - Heroku only runs dependancies, not devdependancies
 
