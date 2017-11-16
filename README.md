@@ -72,7 +72,7 @@
   <strong>long form</strong>  
      - npm install --save-dev morgan
  
- shorthand
+ <b>shorthand</b>
  npm i -D morgan
 
    Misc/Good to Know
