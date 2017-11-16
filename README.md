@@ -72,12 +72,12 @@
   <strong>long form</strong>  
      - npm install --save-dev morgan
  
- <b>shorthand</b>
- npm i -D morgan
+ <strong>shorthand</strong>  
+     - npm i -D morgan
 
-   Misc/Good to Know
-- .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)
-- Heroku only runs dependancies
+   <strong>Misc/Good to Know</strong>  
+      - .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)  
+      - Heroku only runs dependancies
 
 
 
