@@ -56,10 +56,12 @@
 
 
 ### Misc Web How/What/Why
--
--
--
--
+[obs-studio](https://github.com/jp9000/obs-studio/wiki/Install-Instructions#debian-based-build-directions)  
+- overlay that lets you share windows, not screens  
+[obs-websocket](https://github.com/Palakis/obs-websocket)  
+[obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser)  
+
+
 
 #### 1. Node/NPM  
    ##### a. Shortcuts  
