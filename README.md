@@ -79,7 +79,21 @@
 
    #### 2. Misc/Good to Know  
    - .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)  
-   - Heroku only runs dependancies, not devdependancies
+   - Heroku only runs dependancies, not devdependancies  
+   
+   
+### Linux Mint 18.3 Cinnamon Install on Win 10 
+12/3/17  
+if install stalls, use nomodeset  
+   - seems to be needed with specific video cards, in my case: nvidia  
+   - found info at linux form site  
+   - mint website directs you to do this, but the step where they say to choose the nvidia driver may be incorrect. follow instructions [here:](https://forums.linuxmint.com/viewtopic.php?t=122257)  
+   - tells you how to use the xforcevesa driver so when you start up, the nvidia driver isn't in use and can actually be applied
+
+
+[Installing Chrome](https://winaero.com/blog/install-google-chrome-linux-mint-18/)
+
+
 
 
 
