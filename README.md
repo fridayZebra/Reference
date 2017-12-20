@@ -1,10 +1,5 @@
 # Reference material while learning Javascript
-
-### Formatting Markdown
-
-- [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
-
-- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [ ] get this better organized!
 
 
 ### Javascript
@@ -55,13 +50,7 @@
 
 [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-
-### Misc Web How/What/Why
-[obs-studio](https://github.com/jp9000/obs-studio/wiki/Install-Instructions#debian-based-build-directions)  
-- overlay that lets you share windows, not screens  
-[obs-websocket](https://github.com/Palakis/obs-websocket)  
-[obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser)  
-
+ 
 
 
 #### 1. Node/NPM  
@@ -82,6 +71,45 @@
    - Heroku only runs dependancies, not devdependancies  
    
    
+
+
+
+
+### Redux 'Tricks'  
+- use this to be able to see previous and next state in the console
+
+```javascript
+//will likely need to install redux-logger
+//npm i --save redux-logger
+
+import { createStore, compose, applyMiddleware } from "redux";  //add compose and applyMiddleware for prev/action/next state
+import {createLogger} from 'redux-logger';  //for prev/action/next state
+import { connect } from "react-redux";
+
+import { reducer } from "./reducers";
+
+export default createStore(reducer,
+  undefined, //for prev/action/next state
+  compose(    //for prev/action/next state
+    applyMiddleware(createLogger()),  //for prev/action/next state
+    window.devToolsExtension ? window.devToolsExtension() : f => f  //for prev/action/next state
+
+  )
+);
+
+
+//the additions and changes to 
+//line 4, 5, 11-16
+//are all needed to make the prev/action/next state show up in the console
+```
+
+
+### Formatting Markdown
+
+- [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ### Linux Mint 18.3 Cinnamon Install on Win 10 
 12/3/17  
 if install stalls, use nomodeset  
@@ -90,17 +118,10 @@ if install stalls, use nomodeset
    - mint website directs you to do this, but the step where they say to choose the nvidia driver may be incorrect. follow instructions [here:](https://forums.linuxmint.com/viewtopic.php?t=122257)  
    - tells you how to use the xforcevesa driver so when you start up, the nvidia driver isn't in use and can actually be applied
 
+[Installing Chrome](https://winaero.com/blog/install-google-chrome-linux-mint-18/)  
 
-[Installing Chrome](https://winaero.com/blog/install-google-chrome-linux-mint-18/)
-
-
-
-
-
-
-
-
-
-
-
- 
+### Misc Web How/What/Why
+[obs-studio](https://github.com/jp9000/obs-studio/wiki/Install-Instructions#debian-based-build-directions)  
+- overlay that lets you share windows, not screens  
+[obs-websocket](https://github.com/Palakis/obs-websocket)  
+[obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser) 
