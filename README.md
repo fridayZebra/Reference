@@ -1,7 +1,7 @@
 # Reference material while learning Javascript
 - [ ] get this better organized!
 
-
+=============================
 ### Javascript
   
 [Array Practice Drills](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
@@ -26,14 +26,14 @@
 
 3. Misc JS  
     [Build 30 Things in 30 Days](https://javascript30.com) [Do this when time alows]
-
+=============================
 ### HTML
 [Dive into HTML5](http://diveintohtml5.info)
 
 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 [Good Class Names W3](https://www.w3.org/QA/Tips/goodclassnames)
-
+=============================
 ### CSS
 [Flexbox Froggy](http://flexboxfroggy.com)
 
@@ -50,9 +50,7 @@
 
 [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
- 
-
-
+=============================
 #### 1. Node/NPM  
    ##### a. Shortcuts  
    *long form*  
@@ -69,11 +67,8 @@
    #### 2. Misc/Good to Know  
    - .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)  
    - Heroku only runs dependancies, not devdependancies  
+=============================
    
-   
-
-
-
 
 ### Redux 'Tricks'  
 - use this to be able to see previous and next state in the console
@@ -103,13 +98,14 @@ export default createStore(reducer,
 //are all needed to make the prev/action/next state show up in the console
 ```
 
-
+=============================
 ### Formatting Markdown
 
 - [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+=============================
 ### Linux Mint 18.3 Cinnamon Install on Win 10 
 12/3/17  
 if install stalls, use nomodeset  
@@ -120,6 +116,7 @@ if install stalls, use nomodeset
 
 [Installing Chrome](https://winaero.com/blog/install-google-chrome-linux-mint-18/)  
 
+=============================  
 ### Misc Web How/What/Why
 [obs-studio](https://github.com/jp9000/obs-studio/wiki/Install-Instructions#debian-based-build-directions)  
 - overlay that lets you share windows, not screens  
