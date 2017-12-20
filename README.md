@@ -25,14 +25,15 @@
         - good explanation on prototype and inheritance in 30 min video
 
 3. Misc JS  
-    [Build 30 Things in 30 Days](https://javascript30.com) [Do this when time alows]
+    [Build 30 Things in 30 Days](https://javascript30.com) [Do this when time alows]  
 =============================
 ### HTML
 [Dive into HTML5](http://diveintohtml5.info)
 
 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-[Good Class Names W3](https://www.w3.org/QA/Tips/goodclassnames)
+[Good Class Names W3](https://www.w3.org/QA/Tips/goodclassnames)  
+
 =============================
 ### CSS
 [Flexbox Froggy](http://flexboxfroggy.com)
