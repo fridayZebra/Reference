@@ -26,7 +26,9 @@
 
 3. Misc JS  
     [Build 30 Things in 30 Days](https://javascript30.com) [Do this when time alows]  
-=============================
+    
+=============================  
+
 ### HTML
 [Dive into HTML5](http://diveintohtml5.info)
 
@@ -68,6 +70,7 @@
    #### 2. Misc/Good to Know  
    - .gitignore => in file at tope, write node_modules (this keeps node from being pushed to repo)  
    - Heroku only runs dependancies, not devdependancies  
+
 =============================
    
 
