@@ -102,7 +102,7 @@ export default createStore(reducer,
 //are all needed to make the prev/action/next state show up in the console
 ```
 
-=============================
+---
 ### Formatting Markdown
 
 - [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
