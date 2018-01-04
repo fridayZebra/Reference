@@ -9,10 +9,10 @@
 
 1. Books
 
-    [Eloquent Javascript 2nd Ed](http://eloquentjavascript.net/index.html)  
     [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)  
     [Exploring ES6](http://exploringjs.com/es6/index.html#toc_ch_about-book)  
-    [Learning JavaScript Design Patterns v1.7.0](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+    [Learning JavaScript Design Patterns v1.7.0](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+    [Eloquent Javascript 2nd Ed](http://eloquentjavascript.net/index.html)  
 
 2. Fundamentals  
     [Javascript Basics](https://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html#arrays)  
