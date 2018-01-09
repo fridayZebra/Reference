@@ -126,3 +126,6 @@ if install stalls, use nomodeset
 - overlay that lets you share windows, not screens  
 [obs-websocket](https://github.com/Palakis/obs-websocket)  
 [obs-linuxbrowser](https://github.com/bazukas/obs-linuxbrowser) 
+
+jquery reminder  
+[jquery](https://www.youtube.com/watch?v=Pt49y1gm0jw&list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
